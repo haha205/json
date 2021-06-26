@@ -1,6 +1,6 @@
 [
   {
-  	    "id": 1,
+  	"id": 1,
     "key": "jiali",
     "name": "佳丽 TV",
     "api": "https://jialiapi.com/api.php/provide/vod/at/xml/",
@@ -203,15 +203,6 @@
     "key": "77ziyuan",
     "name": "77资源",
     "api": "https://www.77zyw.xyz/inc/seacmsapi.php",
-    "download": "",
-    "isActive": 1,
-    "group": "福利"
-  },
-  {
-    "id": 25,
-    "key": "ceshi66",
-    "name": "测试66",
-    "api": "http://www.ggmmzy.com:9999/inc/xml",
     "download": "",
     "isActive": 1,
     "group": "福利"
