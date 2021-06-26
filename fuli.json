@@ -1,6 +1,6 @@
 [
   {
-  	"id": 1,
+    "id": 1,
     "key": "jiali",
     "name": "佳丽 TV",
     "api": "https://jialiapi.com/api.php/provide/vod/at/xml/",
